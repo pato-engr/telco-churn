@@ -1,0 +1,57 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,MonthlyCharges,TotalCharges,Prediction,Probability,RiskLevel
+Male,No,Yes,Yes,4,Yes,DSL,Month-to-month,44.0,777.0,Churn,59.91,Medium Risk
+Male,No,Yes,Yes,4,Yes,DSL,Month-to-month,50.77,50000.0,Churn,100.0,High Risk
+Male,No,Yes,Yes,4,Yes,DSL,Month-to-month,50.77,50000.0,Churn,100.0,High Risk
+Male,No,Yes,Yes,4,Yes,DSL,Month-to-month,50.77,60000.0,Churn,100.0,High Risk
+Male,No,Yes,Yes,24,Yes,DSL,Two year,26.55,637.2,Stay,12.78,Low Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,55.0,7889.0,Churn,91.09,High Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,55.0,7889.0,Churn,91.09,High Risk
+Male,No,Yes,Yes,5,Yes,Fiber optic,Month-to-month,20.6,103.0,Churn,69.06,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,4.0,555.0,Churn,70.93,High Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,4.0,555.0,Churn,70.93,High Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,4.0,555.0,Churn,70.93,High Risk
+Male,No,Yes,Yes,6,Yes,DSL,Month-to-month,20.66,123.96,Churn,59.43,Medium Risk
+Male,No,Yes,Yes,6,Yes,DSL,One year,20.66,123.96,Stay,40.31,Medium Risk
+Male,No,Yes,Yes,0,Yes,DSL,Month-to-month,55.0,55.0,Churn,57.0,Medium Risk
+Male,No,Yes,Yes,8,Yes,DSL,Month-to-month,98.0,7889.0,Churn,83.41,High Risk
+Male,No,Yes,Yes,24,Yes,DSL,Two year,20.5,492.0,Stay,13.14,Low Risk
+Male,No,Yes,Yes,1,Yes,DSL,Month-to-month,55.0,55.0,Churn,55.57,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,55.0,175.0,Churn,53.58,Medium Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,55.0,775.0,Churn,55.13,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,3,Yes,DSL,Month-to-month,44.0,136.0,Churn,56.68,Medium Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,5.0,25.0,Churn,64.69,Medium Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,5.0,25.0,Churn,64.69,Medium Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,5.0,25.0,Churn,64.69,Medium Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,5.0,25.0,Churn,64.69,Medium Risk
+Male,No,Yes,Yes,5,Yes,DSL,Month-to-month,5.0,25.0,Churn,64.69,Medium Risk
+Male,No,Yes,Yes,4,Yes,DSL,Month-to-month,4.0,67.0,Churn,66.56,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,5554.0,899000.0,Churn,100.0,High Risk
+Male,No,Yes,Yes,9,Yes,DSL,One year,20.5,148.5,Stay,36.41,Low Risk
+Male,No,Yes,Yes,9,Yes,DSL,One year,20.5,148.5,Stay,36.41,Low Risk
+Male,No,Yes,Yes,4,Yes,DSL,Month-to-month,20.5,100.0,Churn,62.07,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Male,No,Yes,Yes,7,Yes,DSL,Month-to-month,34.0,778.0,Churn,58.72,Medium Risk
+Female,No,Yes,No,1,No,DSL,Month-to-month,29.85,29.85,Churn,66.63,Medium Risk
+Male,No,Yes,Yes,34,Yes,DSL,One year,56.95,1932.9,Stay,5.47,Low Risk

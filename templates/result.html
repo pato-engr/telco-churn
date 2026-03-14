@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+
+    <title>Prediction Result</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+   
+   
+<div class="card">
+
+      <div class="top-nav">
+        <a href="/dashboard" class="dash-btn">
+        <button>Open Business Dashboard</button>
+        </a>
+    </div>
+
+<h1>Prediction Result</h1>
+
+{% if prediction == "Churn" %}
+
+<p class="churn">Customer is likely to Churn</p>
+
+{% else %}
+
+<p class="no-churn">Customer will Stay</p>
+
+{% endif %}
+
+<h3>Churn Probability: {{ probability }}%</h3>
+
+<a href="/" class="try">Try Another Prediction</a>
+
+</div>
+
+</body>
+</html> 
